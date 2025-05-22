@@ -28,8 +28,8 @@ htmlファイルについては、index.htmlにてご確認ください。
 
 | ファイル名            | 画面読み込み時のloading |
 | :---                 | :---:                  |
-| index.html           | ○                      |
-| index-noloading.html | ×                      |
+| index.html           | loading：有            |
+| index-noloading.html | loading：無            |
 
 ## Webサイト画面
 ![alt](README_images/01header.png)
@@ -47,5 +47,4 @@ htmlファイルについては、index.htmlにてご確認ください。
 ![alt](README_images/13merit.png)
 ![alt](README_images/14flow.png)
 ![alt](README_images/15cta.png)
-![alt](README_images/16footer.png)# starlab
-# starlab
+![alt](README_images/16footer.png)
